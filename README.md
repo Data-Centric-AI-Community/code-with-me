@@ -27,7 +27,7 @@ If you have a cool idea for a new code-with-me session or you'd like to host one
 - **What did we do?:** In this session we talked about Large Language Models (LLMs) and used [llama-index](https://pypi.org/project/llama-index/) and [langchain](https://pypi.org/project/langchain/) to create a multi-document LLM App!
 - **Session:** [Youtube Session](https://www.youtube.com/watch?v=ubBWL-PB67U&t=1441s)
 - **Code:** [Jupyter Notebook](notebooks/multi_doc_llm.ipynb)
-- **Nice Read:** [Synthetic data generation with Gaussian Mixture Models](https://mlops.community/combine-and-query-multiple-documents-with-llm/)
+- **Nice Read:** [Combine and Query Multiple Documents with LLMs](https://mlops.community/combine-and-query-multiple-documents-with-llm/)
 
 
 ### Synthetic Data Generation with Generative Models 🤖
