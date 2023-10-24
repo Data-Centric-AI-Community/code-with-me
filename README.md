@@ -23,6 +23,16 @@ If you have a cool idea for a new code-with-me session or you'd like to host one
 
 ## Previous Sessions
 
+### Getting Started with the Open Source FiftyOne Computer Vision Toolset 👁️
+- **Code:** [Jupyter Notebook](notebooks/fiftyone_computer_vision.ipynb)
+- **Nice Reads:** 
+    - [Instructions on how to install FiftyOne](https://docs.voxel51.com/getting_started/install.html)
+    - [Short video showing an installation](https://www.youtube.com/watch?v=7mmH-ql_-zg)
+    - [Learn more about the FiftyOne Library](https://docs.voxel51.com/user_guide/index.html)
+    - [Learn more about the FiftyOne App](https://docs.voxel51.com/user_guide/app.html)
+    - [Learn more about the FiftyOne Brain](https://docs.voxel51.com/user_guide/brain.html)
+
+
 ### Building a Multi-Document LLM App 🦙
 - **What did we do?:** In this session we talked about Large Language Models (LLMs) and used [llama-index](https://pypi.org/project/llama-index/) and [langchain](https://pypi.org/project/langchain/) to create a multi-document LLM App!
 - **Session:** [Youtube Session](https://www.youtube.com/watch?v=ubBWL-PB67U&t=1441s)
