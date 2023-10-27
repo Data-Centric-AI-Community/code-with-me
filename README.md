@@ -24,6 +24,8 @@ If you have a cool idea for a new code-with-me session or you'd like to host one
 ## Previous Sessions
 
 ### Getting Started with the Open Source FiftyOne Computer Vision Toolset 👁️
+- **What did we do?:** In this session explored how to use the [FiftyOne toolset](https://github.com/voxel51/fiftyone) to achieve high-quality computer vision datasets and models. We went through the basics of exploring the FiftyOne app, from loading the data to generating and evaluating models. 
+- **Session:** [Youtube Session](https://www.youtube.com/watch?v=s76Jd9hZ7k8)
 - **Code:** [Jupyter Notebook](notebooks/fiftyone_computer_vision.ipynb)
 - **Nice Reads:** 
     - [Instructions on how to install FiftyOne](https://docs.voxel51.com/getting_started/install.html)
@@ -31,6 +33,7 @@ If you have a cool idea for a new code-with-me session or you'd like to host one
     - [Learn more about the FiftyOne Library](https://docs.voxel51.com/user_guide/index.html)
     - [Learn more about the FiftyOne App](https://docs.voxel51.com/user_guide/app.html)
     - [Learn more about the FiftyOne Brain](https://docs.voxel51.com/user_guide/brain.html)
+    - [Learn more about the FiftyOne Plugins](https://github.com/voxel51/fiftyone-plugins)
 
 
 ### Building a Multi-Document LLM App 🦙
