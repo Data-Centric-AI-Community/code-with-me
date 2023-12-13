@@ -18,10 +18,18 @@ At the Data-Centric AI Community, we get together every other Thursday to discus
  - When the time comes, join the voice channel 🧠*-code-with-me*
  - Ask as many questions as you want, by chat or voice, and enjoy!
 
-If you have a cool idea for a new code-with-me session or you'd like to host one, you call leave us a comment here on [GitHub Discussions](https://github.com/Data-Centric-AI-Community/code-with-me/discussions) or on [Reddit DataScienceCoders](https://www.reddit.com/r/DataScienceCoders/).
+If you have a cool idea for a new code-with-me session or you'd like to host one, you call leave us a comment on the Discord channel too!
 
 
 ## Previous Sessions
+
+### Land Your Dream Job with a Data Science Portfolio 📊
+- **What did we do?:** In this session, we discussed the key skills that data scientists need to showcase in their data portfolios to get that data science job they've been dreaming of!
+- **Session:** [Youtube Session](https://www.youtube.com/watch?v=EStxs054hpk)
+- **Slides:** [Session Slides](slides/Creating_Data_Portfolio.pdf)
+- **Code:** [DataCamp Workspace](https://app.datacamp.com/workspace/new?accountType=personal&_tag=workspace&workspaceId=0e25e0bb-9fd2-4931-aff4-1e5afd0c928e&title=Analysis%20of%20avocado%20sales%20in%20SQL%20%26%20Python%20%28copy%29&utmContent=copy_duplicate_link&utmMedium=in_product&utmSource=workspace&visibility=public)
+    - You can create a free DataCamp account to access the workspace
+
 
 ### Getting Started with the Open Source FiftyOne Computer Vision Toolset 👁️
 - **What did we do?:** In this session explored how to use the [FiftyOne toolset](https://github.com/voxel51/fiftyone) to achieve high-quality computer vision datasets and models. We went through the basics of exploring the FiftyOne app, from loading the data to generating and evaluating models. 
@@ -47,5 +55,3 @@ If you have a cool idea for a new code-with-me session or you'd like to host one
 - **What did we do?:** In this session, we talked about synthetic data and played with a generative model based on Gaussian Mixture Models (GMMs) incorporated in [ydata-synthetic](https://github.com/ydataai/ydata-synthetic).
 - **Session:** [Youtube Session](https://www.youtube.com/watch?v=5kESpkNz94M)
 - **Nice Read:** [Synthetic data generation with Gaussian Mixture Models](https://ydata.ai/resources/synthetic-data-generation-with-gaussian-mixture-models)
-
-
